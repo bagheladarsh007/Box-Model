@@ -32,4 +32,4 @@ we have used border , width, margin, transform, box radius etc, here is screensh
 ![266628502-64a21f30-023b-4055-b5e6-5d6dfbe0f427](https://github.com/bagheladarsh007/Box-Model/assets/142333682/ed1e2e4f-a2e9-4956-8ff8-d7c3529c8b22)
 
 ## Hosted Link
-here is the hosted link: https://rajakhan017.github.io/Box-Model/
+here is the hosted link: https://bagheladarsh007.github.io/Box-Model/
